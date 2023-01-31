@@ -1,0 +1,4 @@
+Sema, 5, 4.7, 12, Toyota, comfort
+Yrys, 7, 4.2, 75, Lamborgini, premium
+Tolik, 2, 4.1, 13, Mercedes-Benz, comfort
+Salikh, 9, 3.8, 43, Volkswagen, comfort
